@@ -34,7 +34,8 @@ Context: despite increasing investments in fire suppression, extreme fire events
 PI: João Honrado (BIOPOLIS/CIBIO/InBIO - University of Porto)      
 Co-PI: João Gonçalves (BIOPOLIS/CIBIO/InBIO - University of Porto)      
 
-__Team members__
+__Team members__     
+    
 Ana Paula Portela (BIOPOLIS/CIBIO/InBIO - University of Porto)     
 Adrián Regos (BIOPOLIS/CIBIO/InBIO - University of Porto)    
 Adrián Cardil (Tecnosylva S.L.)
@@ -46,7 +47,8 @@ Joaquim Alonso (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)
 Pedro Castro (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Salvador Arenas Castro (U. Cordoba)    
      
-__Contributors__    
+__Contributors__       
+     
 Daniel Sabucedo (U. Vigo)    
 Duarte Velho (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Silvana Pais (BIOPOLIS/CIBIO/InBIO - University of Porto)     
