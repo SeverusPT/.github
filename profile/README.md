@@ -22,11 +22,11 @@ Context: despite increasing investments in fire suppression, extreme fire events
 
 ## Key features 🛰️🔥⛰️
 
-- Robust framework: The project implements a spatially explicit framework that assesses, maps, and predicts fire severity, considering the effects of fires on ecosystems under a changing climate
+- Robust framework: The project implements a spatially explicit framework that assesses, maps, and predicts burn severity, considering the effects of fires on ecosystems under a changing climate
     
-- Satellite data analysis: Spectral and ecosystem functioning indicators extracted through remote sensing are leveraged to assess fire severity and provide detailed characterizations on a large scale
+- Satellite data analysis: Spectral and ecosystem functioning indicators extracted from satellite remote sensing time series are leveraged to assess fire severity and provide detailed characterizations on a large scale
     
-- Web-based services: A user-friendly web service is being developed to provide continuous and standardized fire severity products, facilitating preventive fire risk management, surveillance, and post-fire restoration efforts
+- Web-based services: A user-friendly web service is being developed to provide continuous and standardized fire severity products, facilitating preventive fire risk management, monitoring, and post-fire restoration efforts
 
 
 ## Team members & contributors 👥
