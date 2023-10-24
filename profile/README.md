@@ -38,8 +38,8 @@ __Team members__
     
 Ana Paula Portela (BIOPOLIS/CIBIO/InBIO - University of Porto)     
 Adrián Regos (BIOPOLIS/CIBIO/InBIO - University of Porto)    
-Adrián Cardil (Tecnosylva S.L.)
-Bruno Marcos (BIOPOLIS/CIBIO/InBIO - University of Porto)     
+Adrián Cardil (Tecnosylva S.L.)      
+Bruno Marcos (BIOPOLIS/CIBIO/InBIO - University of Porto)      
 Cristiana Alves (BIOPOLIS/CIBIO/InBIO - University of Porto)      
 Diogo Mota (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Domingo Alcaraz (U. Granada)     
