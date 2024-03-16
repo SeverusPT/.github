@@ -20,7 +20,7 @@ Context: despite increasing investments in fire suppression, extreme fire events
 - Contribute to advancing the state-of-the-art in fire severity mapping and modelling and understanding its driving factors and links to fire hazard management
 
 
-## Key features 🛰️🔥⛰️
+## Key features 🛰️
 
 - Robust framework: The project implements a spatially explicit framework that assesses, maps, and predicts burn severity, considering the effects of fires on ecosystems under a changing climate
     
@@ -47,10 +47,11 @@ Joaquim Alonso (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)
 Pedro Castro (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Salvador Arenas Castro (U. Cordoba)    
      
-__Contributors__       
+__Contributors/students__       
      
-Daniel Sabucedo (U. Vigo)    
-Duarte Velho (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
-Silvana Pais (BIOPOLIS/CIBIO/InBIO - University of Porto)     
-Susana Pereira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)    
+Daniel Sabucedo (U. Vigo, BSc internship student/Erasmus)    
+Duarte Velho (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, MSc student) 
+Letícia Pedreira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, CTeSP internship student) 
+Silvana Pais (BIOPOLIS/CIBIO/InBIO - University of Porto, PhD student)     
+Susana Pereira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, BSc internship student)    
    
