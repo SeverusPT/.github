@@ -50,8 +50,8 @@ Salvador Arenas Castro (U. Cordoba)
 __Contributors/students__       
      
 Daniel Sabucedo (U. Vigo, BSc internship student/Erasmus)    
-Duarte Velho (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, MSc student) 
-Letícia Pedreira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, CTeSP internship student) 
-Silvana Pais (BIOPOLIS/CIBIO/InBIO - University of Porto, PhD student)     
+Duarte Velho (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, MSc student)        
+Letícia Pedreira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, CTeSP internship student)     
+Silvana Pais (BIOPOLIS/CIBIO/InBIO - University of Porto, PhD student)      
 Susana Pereira (ESA/IPVC - Polythecnic Institute Of Viana do Castelo, BSc internship student)    
    
