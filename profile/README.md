@@ -41,10 +41,10 @@ Adrián Regos (BIOPOLIS/CIBIO/InBIO - University of Porto)
 Adrián Cardil (Tecnosylva S.L.)         
 Bruno Marcos (BIOPOLIS/CIBIO/InBIO - University of Porto)        
 Cristiana Alves (BIOPOLIS/CIBIO/InBIO - University of Porto)        
-Diogo Mota (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
+Diogo Mota (ESTG/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Domingo Alcaraz (U. Granada)     
 Joaquim Alonso (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
-Pedro Castro (ESA/IPVC - Polythecnic Institute Of Viana do Castelo)     
+Pedro Castro (ESTG/IPVC - Polythecnic Institute Of Viana do Castelo)     
 Salvador Arenas Castro (U. Cordoba)    
      
 __Contributors/students__       
